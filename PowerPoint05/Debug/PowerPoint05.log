@@ -1,0 +1,42 @@
+﻿  DrawShapesByClass.cpp
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(111): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(111): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(196): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(196): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(223): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(223): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(251): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(251): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(269): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(269): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(316): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(316): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(355): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(355): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(385): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(385): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(403): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(403): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(445): warning C4838: 'WPARAM'에서 'TCHAR'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(472): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(472): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(492): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(492): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(516): warning C4838: 'WPARAM'에서 'TCHAR'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(530): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(530): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(544): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(544): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(568): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(568): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(586): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(586): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(599): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(599): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(619): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(619): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(633): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(633): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint05\drawshapesbyclass.cpp(675): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PowerPoint05.vcxproj -> C:\Users\Choi Gyugwang\Documents\Visual Studio 2015\Projects\PowerPoint01\Debug\PowerPoint05.exe
+  PowerPoint05.vcxproj -> C:\Users\Choi Gyugwang\Documents\Visual Studio 2015\Projects\PowerPoint01\Debug\PowerPoint05.pdb (Full PDB)

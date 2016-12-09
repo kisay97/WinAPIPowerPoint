@@ -1,0 +1,8 @@
+﻿  Shape.cpp
+  Rectangle.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'Rectangle.cpp': No such file or directory
+  Line.cpp
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint01\line.cpp(40): warning C4101: 'mouseSlope' :참조되지 않은 지역 변수입니다.
+c:\users\choi gyugwang\documents\visual studio 2015\projects\powerpoint01\powerpoint01\line.cpp(39): warning C4101: 'lineSlope' :참조되지 않은 지역 변수입니다.
+  Circle.cpp
+  코드를 생성하고 있습니다...
